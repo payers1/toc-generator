@@ -1,0 +1,14 @@
+{
+  "name": "toc-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "node-fetch": "^2.2.0",
+    "pdf-text-extract": "^1.5.0",
+    "puppeteer": "^1.8.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
